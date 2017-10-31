@@ -6,3 +6,5 @@ Samples expected from lab Tue Oct 31 14:41:48 EDT 2017
 
 
 Maize reference genome version: refgen3
+
+Adapter file: adapters.fa
